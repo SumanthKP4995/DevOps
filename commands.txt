@@ -1,0 +1,16 @@
+git config --global user.name "username"
+git config --global user.email "email"
+git config user.name
+git config user.email
+git init
+git init -b branch
+git branch branchname
+git branch -d branchname
+git checkout branchname
+git clone repolink
+git status
+git add .
+git commit -m "message"
+git push origin branchname
+git pull
+
