@@ -13,4 +13,4 @@ git add .
 git commit -m "message"
 git push origin branchname
 git pull
-
+git branch -a
